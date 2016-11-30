@@ -80,3 +80,5 @@ Standard SDKs can now be used
   - invokes lambda
 
 API Keys are not meant for API Gateway for authentication
+
+API Gateway has Auhtorizers testing with tokens
