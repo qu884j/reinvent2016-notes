@@ -138,3 +138,12 @@ EMR will handle this
 Age decay for older listings
 
 # Training & Scoring
+
+# Offline evaluation
+
+> Hyperparameter tuning with validation set
+
+# Future work
+
+- classifiers for listing descriptions
+- Cross-brand user signals -
