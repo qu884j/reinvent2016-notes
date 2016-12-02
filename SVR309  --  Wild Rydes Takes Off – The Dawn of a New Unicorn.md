@@ -21,3 +21,7 @@ Marketing website
 - Static Launch Page
 - Blog Site
 - Admin Site
+
+<https://github.com/awslabs/aws-serverless-website-workshop>
+
+`HurpDurp123@`
