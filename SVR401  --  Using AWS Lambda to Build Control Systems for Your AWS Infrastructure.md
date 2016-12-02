@@ -76,3 +76,26 @@ You have to define what's appropriate
 # AWS Config
 
 # IAM Enforcement
+
+# Infrastructure Automation
+
+- Cloudwatch Events
+
+  - Autoscaling events
+  - Api call
+  - lambda
+
+# Create/Update Route53 records from tag
+
+# Best practices
+
+- log everything
+- report failures
+
+  - on stream failures, you'll see retries, but if you're not reporting the errors - you'll be scratching your head
+
+- iterate
+- bite-sized code
+- version lambda functions
+
+# Recap
